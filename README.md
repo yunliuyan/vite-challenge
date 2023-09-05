@@ -1,6 +1,10 @@
 # 简介
 通过提交commit的方式来学习vite
 
+## 学习资料
+官网：https://vitejs.cn/
+github: https://github.com/vitejs/vite
+
 # 学习方式
 - 在issues布置一周要完成的作业
 - 成员在本项目建立自己的分支: feat-vite-姓名缩写，例如feat-vite-yld
